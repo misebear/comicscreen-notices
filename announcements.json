@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "package": "com.viewer.comicscreen.renewed",
+  "id": "renewed-development-20261012",
+  "title": "ComicScreen Renewed 개발 안내",
+  "body": "현재 무료·무광고 개발 버전입니다. 읽기 위치 복원, 여백 편집, 분할 압축 기능을 개선하고 있습니다. 공개 업데이트는 준비가 끝나면 안내합니다.",
+  "latestVersionCode": 0,
+  "supportEmail": "db0192a@gmail.com",
+  "localized": {
+    "EN": {
+      "title": "ComicScreen Renewed development notice",
+      "body": "This is a free, ad-free development version. Reading position, crop editing and split archives are being improved. Public updates will be announced when ready."
+    },
+    "JA": {
+      "title": "ComicScreen Renewed 開発のお知らせ",
+      "body": "現在は無料・広告なしの開発版です。読書位置の復元、余白編集、分割書庫を改善しています。公開更新は準備完了後にお知らせします。"
+    },
+    "RU": {
+      "title": "Разработка ComicScreen Renewed",
+      "body": "Это бесплатная версия без рекламы для разработки. Улучшаются восстановление позиции, редактирование полей и раздельные архивы. О публичном обновлении сообщим после подготовки."
+    }
+  }
+}
